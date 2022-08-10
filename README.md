@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faranakmh
-- 👀 I’m interested in web developement and AI
-- 🌱 I’m currently learning Javacript
+- 👀 I’m interested in web developement, Game Developement and AI
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Mohebbati.faranak@gmail.com
 
 <!---
